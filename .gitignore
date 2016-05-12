@@ -1,3 +1,9 @@
+# not
+.DS_Store
+
+#editor
+.swp
+
 # Logs
 logs
 *.log
